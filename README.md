@@ -3,12 +3,12 @@
 
 |Topic|                                Questions|      Level|    DAY|Completed|
 |:---:|:---:|:---:|:---:|:---:|
-|Array|Search an Element in an array|Easy|1|No|
-|Array|Check if two arrays are equal or not|Easy|1|No|
-|Array|Missing element of AP|Easy|1|No|
-|Array|Cyclically rotate an array by one|Easy|1|No|
-|Array|Find minimum and maximum element in an array|Easy|2|No|
-|Array|Binary Array Sorting|Easy|2|No|
+|Array|Search an Element in an array|Easy|1|Yes|
+|Array|Check if two arrays are equal or not|Easy|1|Yes|
+|Array|Missing element of AP|Easy|1|Yes|
+|Array|Cyclically rotate an array by one|Easy|1|Yes|
+|Array|Find minimum and maximum element in an array|Easy|2|Yes|
+|Array|Binary Array Sorting|Easy|2|Yes|
 |Array|Move all negative elements to end|Easy|2|No|
 |Array|Missing number|Easy|2|No|
 |Array|Search Element in Matrix|Easy|3|No|
