@@ -1,6 +1,6 @@
 "# DsaQuestion2023" 
 
-"This repo contains all variety of DSA questions"
+"This repo contains a variety of DSA questions"
 
 |Topic|                                Questions|      Level|    DAY|Completed|
 |:---:|:---:|:---:|:---:|:---:|
@@ -10,12 +10,12 @@
 |Array|Cyclically rotate an array by one|Easy|1|Yes|
 |Array|Find minimum and maximum element in an array|Easy|2|Yes|
 |Array|Binary Array Sorting|Easy|2|Yes|
-|Array|Move all negative elements to end|Easy|2|No|
-|Array|Missing number|Easy|2|No|
-|Array|Search Element in Matrix|Easy|3|No|
-|Array|Find the fine|Easy|3|No|
-|Array|Greater on right side|Easy|3|No|
-|Array|Remove duplicate elements from sorted Array|Easy|3|No|
+|Array|Move all negative elements to end|Easy|2|Yes|
+|Array|Missing number|Easy|2|Yes|
+|Array|Search Element in Matrix|Easy|3|Yes|
+|Array|Find the fine|Easy|3|Yes|
+|Array|Greater on right side|Easy|3|Yes|
+|Array|Remove duplicate elements from sorted Array|Easy|3|Yes|
 |Array|Subarray with given sum|Easy|4|No|
 |Array|Sort an array of 0s, 1s and 2s|Easy|4|No|
 |Array|Equilibrium Point|Easy|4|No|
