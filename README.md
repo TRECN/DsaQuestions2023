@@ -53,7 +53,7 @@
 |String|Reverse a String|Easy|15|Yes|
 |String|Check if strings are rotations of each other or not|Easy|15|Yes|
 |String|Maximum Occuring Character|Easy|15|Yes|
-|String|Binary String|Easy|15|No|
+|String|Binary String|Easy|15|Yes|
 |String|Anagram of String|Easy|16|No|
 |String|Merge two strings|Easy|16|No|
 |String|Reverse words in a given string|Easy|16|No|
