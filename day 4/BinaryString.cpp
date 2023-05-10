@@ -1,7 +1,7 @@
 // https://practice.geeksforgeeks.org/problems/binary-string-1587115620/1?page=1&difficulty[]=-1&category[]=Strings&sortBy=submissions
 #include<bits/stdc++.h>
 using namespace std;
-
+ 
 
 
 class Solution

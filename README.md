@@ -54,9 +54,9 @@
 |String|Check if strings are rotations of each other or not|Easy|15|Yes|
 |String|Maximum Occuring Character|Easy|15|Yes|
 |String|Binary String|Easy|15|Yes|
-|String|Anagram of String|Easy|16|No|
-|String|Merge two strings|Easy|16|No|
-|String|Reverse words in a given string|Easy|16|No|
+|String|Anagram of String|Easy|16|Yes|
+|String|Merge two strings|Easy|16|Yes|
+|String|Reverse words in a given string|Easy|16|Yes|
 |String|Palindrome String|Easy|16|No|
 |String|Longest Common Prefix in an Array|Easy|17|No|
 |String|Roman Number to Integer|Easy|17|No|
