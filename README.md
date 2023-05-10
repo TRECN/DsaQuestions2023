@@ -57,9 +57,9 @@
 |String|Anagram of String|Easy|16|Yes|
 |String|Merge two strings|Easy|16|Yes|
 |String|Reverse words in a given string|Easy|16|Yes|
-|String|Palindrome String|Easy|16|No|
-|String|Longest Common Prefix in an Array|Easy|17|No|
-|String|Roman Number to Integer|Easy|17|No|
+|String|Palindrome String|Easy|16|Yes|
+|String|Longest Common Prefix in an Array|Easy|17|Yes|
+|String|Roman Number to Integer|Easy|17|Yes|
 |String|Length of Last Word|Easy|17|No|
 |String|Longest Distinct characters in string|Easy|17|No|
 |String|Remove all duplicates from a given string|Easy|18|No|
