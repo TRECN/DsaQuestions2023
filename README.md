@@ -90,11 +90,11 @@
 |String|Power of 2|Hard|28|No|
 |String|Justified Text|Hard|28|No|
 | | | | | |
-|Searching and Sorting|Searching an element in a sorted array|Easy|29|No|
-|Searching and Sorting|Last index of One|Easy|29|No|
-|Searching and Sorting|Count the Zeros|Easy|29|No|
+|Searching and Sorting|Searching an element in a sorted array|Easy|29|Yes|
+|Searching and Sorting|Last index of One|Easy|29|Yes|
+|Searching and Sorting|Count the Zeros|Easy|29|Yes|
 |Searching and Sorting|Elements in the Range|Easy|29|No|
-|Searching and Sorting|Bubble Sort|Easy|30|No|
+|Searching and Sorting|Bubble Sort|Easy|30|Yes|
 |Searching and Sorting|Insertion Sort|Easy|30|No|
 |Searching and Sorting|First and last occurrences of X|Easy|30|No|
 |Searching and Sorting|Count zeros in a sorted matrix|Easy|30|No|
