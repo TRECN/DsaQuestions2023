@@ -1,3 +1,4 @@
+// https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/1?page=1&difficulty[]=1&category[]=Searching&sortBy=submissions
 #include<bits/stdc++.h>
 using namespace std;
 #define ll long long
@@ -11,14 +12,14 @@ public:
             s.insert(i);
         }
         int i=1;
-        while(i<n){
+        while(i<=n){
             if(s.find(i)!=s.end()){
                 i++;
             }
             else 
                 return i;
         }
-        return n;
+        return n+1;
     }
 };
 
