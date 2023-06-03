@@ -117,7 +117,7 @@
 |Searching and Sorting|Rope Cutting|Easy|35|No|
 |Searching and Sorting|Make array elements unique|Easy|35|No|
 |Searching and Sorting|Kth smallest element|Medium|35|No|
-|Searching and Sorting|Smallest Positive missing number|Medium|35|No|
+|Searching and Sorting|Smallest Positive missing number|Medium|35|Yes|
 |Searching and Sorting|Sort an array according to the other|Medium|36|No|
 |Searching and Sorting|Square root of a number|Medium|36|No|
 |Searching and Sorting|Search in a row-column sorted Matrix|Medium|36|No|
