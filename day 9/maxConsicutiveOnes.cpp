@@ -1,4 +1,11 @@
 // https://leetcode.com/problems/max-consecutive-ones/description/
+#include<bits/stdc++.h>
+using namespace std;
+#define ll long long
+int main()
+{
+    return 0;
+}
 class Solution {
 public:
     int findMaxConsecutiveOnes(vector<int>& nums) {
