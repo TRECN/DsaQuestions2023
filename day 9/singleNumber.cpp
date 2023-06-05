@@ -1,4 +1,11 @@
 // https://leetcode.com/problems/single-number/description/
+#include<bits/stdc++.h>
+using namespace std;
+#define ll long long
+int main()
+{
+    return 0;
+}
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
