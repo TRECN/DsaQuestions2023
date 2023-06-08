@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
     return 0;
-}as
+}
 class Solution {
 public:
     int longestConsecutive(vector<int>& nums) {
