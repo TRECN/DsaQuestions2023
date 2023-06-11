@@ -1,4 +1,4 @@
-https://leetcode.com/contest/weekly-contest-349/problems/neither-minimum-nor-maximum/
+// https://leetcode.com/contest/weekly-contest-349/problems/neither-minimum-nor-maximum/
 #include<bits/stdc++.h>
 using namespace std;
 #define ll long long
