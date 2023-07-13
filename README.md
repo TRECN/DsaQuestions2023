@@ -315,11 +315,11 @@
 |Tree|Maximum Edge Removal|Medium|97|No|
 |Tree|Populate Next Right Pointers Tree|Medium|97|No|
 |Tree|Burn a Tree|Medium|97|No|
-|Tree|Boundary Traversal of binary tree|Medium|98|No|
-|Tree|Diameter of a Binary Tree|Medium|98|No|
+|Tree|Boundary Traversal of binary tree|Medium|98|Yes|
+|Tree|Diameter of a Binary Tree|Medium|98|Yes|
 |Tree|Sum Tree|Medium|98|No|
-|Tree|Top View of Binary Tree|Medium|99|No|
-|Tree|Bottom View of Binary Tree|Medium|99|No|
+|Tree|Top View of Binary Tree|Medium|99|Yes|
+|Tree|Bottom View of Binary Tree|Medium|99|Yes|
 |Tree|Lowest Common Ancestor in a Binary Tree|Medium|99|No|
 |Tree|Maximum difference between node and its ancestor|Medium|100|No|
 |Tree|Serialize and Deserialize a Binary Tree|Medium|100|No|
