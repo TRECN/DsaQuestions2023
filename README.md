@@ -281,21 +281,21 @@
 |Queue|Minimum Number of K Consecutive Bit Flips|Hard|88|No|
 |Queue|Count Subarrays With Fixed Bounds|Hard|88|No|
 | | | | | |
-|Tree|Inorder Traversal|Easy|89|No|
-|Tree|Preorder Traversal|Easy|89|No|
-|Tree|Postorder Traversal|Easy|89|No|
+|Tree|Inorder Traversal|Easy|89|Yes|
+|Tree|Preorder Traversal|Easy|89|Yes|
+|Tree|Postorder Traversal|Easy|89|Yes|
 |Tree|Count Leaves in Binary Tree|Easy|89|No|
 |Tree|Size of Binary Tree|Easy|90|No|
 |Tree|Sum of Binary Tree|Easy|90|No|
 |Tree|Count Non-Leaf Nodes in Tree|Easy|90|No|
 |Tree|Left View of Binary Tree|Easy|90|No|
 |Tree|Right View of Binary Tree|Easy|91|No|
-|Tree|Height of Binary Tree|Easy|91|No|
+|Tree|Height of Binary Tree|Easy|91|Yes|
 |Tree|Root to leaf paths sum|Easy|91|No|
 |Tree|Check for Balanced Tree|Easy|91|No|
-|Tree|Determine if Two Trees are Identical|Easy|92|No|
-|Tree|Level order traversal|Easy|92|No|
-|Tree|Level order traversal in spiral form|Easy|92|No|
+|Tree|Determine if Two Trees are Identical|Easy|92|Yes|
+|Tree|Level order traversal|Easy|92|Yes|
+|Tree|Level order traversal in spiral form|Easy|92|Yes|
 |Tree|Mirror Tree|Easy|92|No|
 |Tree|Print all nodes that don't have sibling|Easy|93|No|
 |Tree|Maximum Depth Of Binary Tree|Easy|93|No|
@@ -308,7 +308,7 @@
 |Tree|Maximum Node Level|Easy|95|No|
 |Tree|Deletion in a Binary Tree|Easy|95|No|
 |Tree|Check if two Nodes are Cousins|Easy|95|No|
-|Tree|Vertical Order traversal of Binary Tree|Medium|95|No|
+|Tree|Vertical Order traversal of Binary Tree|Medium|95|Yes|
 |Tree|Diagonal Traversal|Medium|96|No|
 |Tree|Flatten Binary Tree to Linked List|Medium|96|No|
 |Tree|Merge two Binary Tree|Medium|96|No|
