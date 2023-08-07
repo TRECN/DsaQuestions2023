@@ -7,6 +7,7 @@ int main()
     return 0;
 }
 class Solution {
+    
 public:
     vector<vector<int>>ans;
     void dfs(vector<vector<int>>& graph,vector<int>&temp,int start,int end){
