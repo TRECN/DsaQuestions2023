@@ -1,5 +1,11 @@
 // https://leetcode.com/problems/island-perimeter/description/
-cpp
+#include<bits/stdc++.h>
+using namespace std;
+#define ll long long
+int main()
+{
+    return 0;
+}
 class Solution {
 public:
 int ans=0;
