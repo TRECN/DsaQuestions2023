@@ -26,10 +26,11 @@ public:
                 m1[temp]++;
                 j+=k;
             }
-            }
             if(m==m1)
                 ans.push_back(i);
+            }
+            
+    
         }
-        return ans;
-    }
-};
+        
+    };
