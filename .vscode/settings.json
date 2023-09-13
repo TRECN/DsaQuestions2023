@@ -12,6 +12,9 @@
         "deque": "cpp",
         "list": "cpp",
         "string": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "forward_list": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp"
     }
 }
